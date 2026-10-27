@@ -1,0 +1,1 @@
+"""Shared common infrastructure package."""

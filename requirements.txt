@@ -1,0 +1,6 @@
+polars==1.44.1
+SQLAlchemy==2.0.52
+oracledb==4.0.2
+python-dotenv==1.0.1
+pytest==9.1.1
+
